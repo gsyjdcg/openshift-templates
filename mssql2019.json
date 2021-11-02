@@ -165,7 +165,7 @@
         {
             "name": "MSSQL_PID",
             "displayName": "Product ID or Edition",
-            "description": "Set to 'Express'/'Express'/'Standard'/'Enterprise'/'EnterpriseCore'.",
+            "description": "Set to 'Express'/'Development'/'Standard'/'Enterprise'/'EnterpriseCore'.",
             "required": true,
             "value": "Express"
         },
